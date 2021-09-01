@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ReactNative-ToDo",
+    "slug": "ReactNative-ToDo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ReactNative-ToDo"
+}
